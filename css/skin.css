@@ -1,0 +1,88 @@
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav li a:hover, 
+.navbar-default .navbar-nav li a:focus,
+.navbar-nav .gb-dropdown-menu li.active a,
+.navbar-nav .gb-dropdown-menu li a:hover {
+	background-color: #e23c3b;
+}
+
+
+.title-section .before-top:before,
+.title-section .before-top:after,
+.title-section .before-bottom:before,
+.title-section .before-bottom:after,
+.title-section h1 span:before,
+.title-section h1 span:after,
+.title-section h1:before,
+.title-section h1:after,
+.navbar-default.navbar-fixed-top, 
+.countdown li span, .speaker h2:before,
+.btn.button-red, .gb-price.active .price-info, 
+.pricing-2 .price-info, .gb-price.active:before,
+.gb-post .read-more:hover,
+.gb-post .share:hover, 
+.gb-price.active:after,
+.pagination>li>a:focus,  
+.pagination>li>a:hover, 
+.pagination>li>span:focus, 
+.pagination>li>span:hover,
+.pagination>.active>a, 
+.pagination>.active>a:focus, 
+.pagination>.active>a:hover, 
+.pagination>.active>span, 
+.pagination>.active>span:focus, 
+.pagination>.active>span:hover,
+.tag-cloud a:hover,
+.gb-dropdown-menu {
+	background-color: #00B957;
+}
+
+a, a:hover, 
+.banner-info h2 span, .btn, .color-red, 
+.speaker:hover.speaker h2,
+.schedule-content .nav-tabs>li:hover a span, 
+.schedule-content .nav-tabs>li.active>a span, 
+.schedule-content .nav-tabs>li.active>a:focus span, 
+.schedule-content .nav-tabs>li.active>a:hover span,
+.schedule>ul>li.active h2, .widget_search .btn,
+.widget_search .btn:hover, .widget_search .btn:focus,
+.widget a:hover, .gallery-menu ul li a:hover,
+.gallery-menu ul li.active a, .gallery-tabs li.active, 
+.gallery-tabs li:hover, .blog-content .tag-cloud a:hover,
+.gb-previuos-next a:hover, .comment-box .comment-meta a:hover,
+.gb-price.active .btn:hover, .pricing-2 .btn:hover,
+.cta-info .btn:hover, .cta-info .btn.button-white, .gb-post .read-more a,
+.gb-post .share a, .entry-content a:hover, .pagination>li>a, 
+.pagination>li>span   {
+	color: #00B957;
+}
+
+.gb-time , .event, .btn.btn-default, .btn.button-red,
+.pagination>li>a, .pagination>li>span,
+.tag-cloud a:hover, .add-comments .form-control:focus,
+.form-control:focus {
+	border: 1px solid #00B957;
+}
+
+.speaker-social,
+.gallery-overlay {
+	background-color: rgba(233, 75, 76, 0.9);
+}
+
+.btn:before,
+.btn:after,
+.cta-info .btn.button-white:before,
+.cta-info .btn.button-white:after {
+    border-top: 27px solid #00B957;
+    border-bottom: 27px solid #00B957;	
+}
+
+blockquote {
+	border-left-color: #00B957;
+}
+
+
+
